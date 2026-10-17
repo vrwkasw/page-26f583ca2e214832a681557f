@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "fd3cf580016be00dd4c828d6",
+  "owner": "vrwkasw",
+  "repo": "page-26f583ca2e214832a681557f",
+  "title": "免费机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "26f583ca2e214832a681557f",
+      "a": "免费机场",
+      "b": "",
+      "entity": "免费机场",
+      "brand": "免费机场",
+      "separator": "",
+      "path": "index.html",
+      "hash": "9b0627e2a1536a3cd207740639f61f854a970f04bb94f488133cf7ef90ae4016",
+      "content": {
+        "keyword1": "免费机场",
+        "keyword2": "",
+        "primary_entity": "免费机场",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "免费机场为关注隐私的用户提供加密网络中转服务。通过订阅地址接入全球节点，日常浏览、流媒体观看、远程办公均获得稳定线路支持。",
+          "AI_DESCRIPTION": "免费机场为关注隐私的用户提供加密网络中转服务。通过订阅地址接入全球节点，日常浏览、流媒体观看、远程办公均获得稳定线路支持。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n  :root {--bg: #2A1E16;--surface: #34251A;--surface-alt: #3E2C20;--text: #F4EFE6;--text-soft: #C7BBAE;--accent: #9FE3CB;--accent-deep: #6FBFA4;--line: rgba(244, 239, 230, 0.12)}\n  * {box-sizing: border-box;margin: 0;padding: 0}\n  body {background: var(--bg);color: var(--text);font-family: Georgia, 'Times New Roman', serif;line-height: 1.75;font-size: 17px}\n  a {color: var(--accent);text-decoration: none}\n  a:hover {text-decoration: underline}\n\n  .crumb {border-bottom: 1px solid var(--line);padding: 18px 24px;display: flex;gap: 10px;flex-wrap: wrap;align-items: center;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif;font-size: 13px;color: var(--text-soft)}\n  .crumb a {color: var(--text-soft)}\n  .crumb .sep {opacity: 0.4}\n  .crumb nav {margin-left: auto;display: flex;gap: 18px;flex-wrap: wrap}\n  .crumb nav a {color: var(--accent)}\n\n  .hero {max-width: 760px;margin: 0 auto;padding: 72px 28px 64px}\n  .hero .kicker {color: var(--accent-deep);font-size: 13px;letter-spacing: 0.18em;text-transform: uppercase;margin-bottom: 24px;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif}\n  .hero h1 {font-size: 38px;line-height: 1.25;margin-bottom: 32px;letter-spacing: -0.01em}\n  .hero p {color: var(--text-soft);font-size: 18px;margin-bottom: 22px}\n  .hero p strong {color: var(--text);font-weight: 600}\n  .hero .lead-end {border-left: 3px solid var(--accent);padding-left: 18px;margin-top: 36px;color: var(--text);font-style: italic}\n\n  .section {max-width: 1000px;margin: 0 auto;padding: 64px 28px}\n  .section-head {margin-bottom: 40px}\n  .section-head .label {color: var(--accent-deep);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif;font-size: 12px;letter-spacing: 0.2em;text-transform: uppercase;margin-bottom: 10px}\n  .section-head h2 {font-size: 28px;letter-spacing: -0.01em}\n\n  .plan-list {display: flex;flex-direction: column;gap: 28px}\n  .plan {background: var(--surface);border-radius: 12px;padding: 36px 40px;position: relative;overflow: hidden}\n  .plan-num {position: absolute;right: 28px;bottom: -24px;font-size: 140px;font-weight: 700;color: rgba(159, 227, 203, 0.06);font-family: Georgia, serif;line-height: 1;pointer-events: none}\n  .plan-tag {display: inline-block;background: var(--accent);color: var(--bg);font-size: 11px;padding: 4px 10px;border-radius: 3px;font-family: -apple-system, sans-serif;letter-spacing: 0.1em;margin-bottom: 16px}\n  .plan h3 {font-size: 24px;margin-bottom: 8px}\n  .plan .price {color: var(--accent);font-size: 22px;margin-bottom: 6px;font-family: Georgia, serif}\n  .plan .annual {color: var(--text-soft);font-size: 13px;margin-bottom: 24px;font-family: -apple-system, sans-serif}\n  .plan ul {list-style: none;position: relative;z-index: 1}\n  .plan ul li {padding: 10px 0;border-top: 1px solid var(--line);color: var(--text-soft);font-size: 15px;font-family: -apple-system, sans-serif}\n  .plan ul li:first-child {border-top: none}\n\n  .guide-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 24px}\n  .guide-card {background: var(--surface);border-radius: 10px;padding: 32px 28px;position: relative;overflow: hidden}\n  .guide-card .step-num {font-size: 64px;color: rgba(159, 227, 203, 0.15);font-weight: 700;line-height: 1;margin-bottom: 12px}\n  .guide-card h3 {font-size: 19px;margin-bottom: 12px}\n  .guide-card p {color: var(--text-soft);font-size: 15px;font-family: -apple-system, sans-serif}\n\n  .faq-wrap {background: var(--surface);border-radius: 12px;padding: 16px 32px}\n  details {border-bottom: 1px solid var(--line);padding: 22px 0}\n  details:last-child {border-bottom: none}\n  summary {cursor: pointer;font-size: 17px;color: var(--text);list-style: none;display: flex;justify-content: space-between;align-items: center;gap: 16px}\n  summary::-webkit-details-marker {display: none}\n  summary::after {content: \"+\";color: var(--accent);font-size: 22px;flex-shrink: 0}\n  details[open] summary::after {content: \"−\"}\n  details .answer {color: var(--text-soft);margin-top: 14px;font-size: 15px;font-family: -apple-system, sans-serif;padding-right: 24px}\n\n  footer {border-top: 1px solid var(--line);padding: 40px 28px;text-align: center;color: var(--text-soft);font-size: 13px;font-family: -apple-system, sans-serif}\n</style><header class=\"crumb\">\n  <span>首页</span>\n  <span class=\"sep\">/</span>\n  <span>免费机场</span>\n  <nav>\n    <a href=\"#plans\">套餐</a>\n    <a href=\"#guide\">使用说明</a>\n    <a href=\"#faq\">常见问题</a>\n  </nav>\n</header>\n\n<main>\n  <section class=\"hero\">\n    <p class=\"kicker\">订阅式网络中转 · 隐私优先</p>\n    <h1>免费机场：一条加密通道，回到属于你自己的网络。</h1>\n    <p>在一个到处都是埋点的互联网里，每一次浏览都可能被记录、被画像、被转卖。<strong>免费机场</strong>提供的并不是某种神奇工具，而是一层基础的加密中转：你的请求先到达我们的节点，再由节点代为访问目标站点，回程流量同样经过加密封装。</p>\n    <p>我们更愿意把这件事讲清楚——它不能让你隐身，也不能绕开所有地理限制，但它可以让日常浏览、流媒体观看、远程登录这些事变得稳定且安静。对很多人来说，这点安静已经足够。</p>\n    <p class=\"lead-end\">如果你正在寻找一个不喧哗、不夸张、把条款写明白的订阅服务，那么可以从这里开始读起。</p>\n  </section>\n\n  <section class=\"section\" id=\"plans\">\n    <div class=\"section-head\">\n      <p class=\"label\">订阅方案</p>\n      <h2>三种套餐，按使用强度划分</h2>\n    </div>\n    <div class=\"plan-list\">\n\n      <article class=\"plan\">\n        <span class=\"plan-num\">01</span>\n        <h3>基础版</h3>\n        <p class=\"price\">¥15/月</p>\n        <p class=\"annual\">按年付仅需 ¥150/年</p>\n        <ul>\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n      </article>\n\n      <article class=\"plan\">\n        <span class=\"plan-tag\">推荐</span>\n        <span class=\"plan-num\">02</span>\n        <h3>旗舰版</h3>\n        <p class=\"price\">¥35/月</p>\n        <p class=\"annual\">按年付仅需 ¥350/年</p>\n        <ul>\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n      </article>\n\n      <article class=\"plan\">\n        <span class=\"plan-num\">03</span>\n        <h3>团队版</h3>\n        <p class=\"price\">¥85/月</p>\n        <p class=\"annual\">按年付仅需 ¥850/年</p>\n        <ul>\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n      </article>\n\n    </div>\n  </section>\n\n  <section class=\"section\" id=\"guide\">\n    <div class=\"section-head\">\n      <p class=\"label\">使用说明</p>\n      <h2>从订阅到连接，四个步骤</h2>\n    </div>\n    <div class=\"guide-grid\">\n      <div class=\"guide-card\">\n        <div class=\"step-num\">01</div>\n        <h3>选择套餐并完成订阅</h3>\n        <p>根据你的设备数量和流量习惯选择对应套餐。订阅成功后，系统会为你的账号生成一条专属订阅地址。</p>\n      </div>\n      <div class=\"guide-card\">\n        <div class=\"step-num\">02</div>\n        <h3>复制订阅地址</h3>\n        <p>在用户中心找到「订阅链接」一栏，完整复制地址。请勿在公开场合分享该链接，它等同于你的账号凭证。</p>\n      </div>\n      <div class=\"guide-card\">\n        <div class=\"step-num\">03</div>\n        <h3>导入客户端</h3>\n        <p>在支持 Clash、Shadowrocket、V2RayN 等协议的客户端中，选择「从订阅地址导入」，粘贴链接后更新节点列表。</p>\n      </div>\n      <div class=\"guide-card\">\n        <div class=\"step-num\">04</div>\n        <h3>选择节点并连接</h3>\n        <p>从节点列表中选择延迟较低的一个，点击连接。连接成功后，所有经过代理规则匹配的流量将走加密通道。</p>\n      </div>\n    </div>\n  </section>\n\n  <section class=\"section\" id=\"faq\">\n    <div class=\"section-head\">\n      <p class=\"label\">常见问题</p>\n      <h2>你可能想先问清楚的事</h2>\n    </div>\n    <div class=\"faq-wrap\">\n      <details>\n        <summary>免费机场是免费服务吗？</summary>\n        <div class=\"answer\">「免费机场」是品牌名称，并不代表所有套餐免费。我们提供基础版、旗舰版、团队版三档付费订阅，价格与权益在上方案例中已列明。品牌名沿用早期社区习惯称呼，实际服务为付费制。</div>\n      </details>\n      <details>\n        <summary>试用过后不满意可以退款吗？</summary>\n        <div class=\"answer\">请在订阅前充分阅读套餐说明。若开通后未产生明显流量消耗，可在 24 小时内联系工单申请退款；超过 24 小时或流量使用超过 1GB 后，原则上不再支持退款。</div>\n      </details>\n      <details>\n        <summary>支持哪些设备和客户端？</summary>\n        <div class=\"answer\">订阅地址兼容主流协议客户端，包括 Windows 下的 V2RayN、macOS 下的 ClashX、iOS 下的 Shadowrocket 与 Stash、Android 下的 Clash for Android 等。只要客户端支持订阅导入，均可使用。</div>\n      </details>\n      <details>\n        <summary>节点速度为什么有时会波动？</summary>\n        <div class=\"answer\">节点速度受本地网络质量、目标站点限制、运营商路由策略以及高峰时段负载等多重因素影响。建议优先选择与本地延迟较低的节点，并在高峰时段切换至负载较轻的区域。</div>\n      </details>\n      <details>\n        <summary>能用来观看海外流媒体吗？</summary>\n        <div class=\"answer\">旗舰版及以上套餐包含原生流媒体解锁能力，基础版支持普通流媒体访问。具体可用性取决于目标平台的区域检测策略，我们不保证所有内容在所有节点均可用。</div>\n      </details>\n      <details>\n        <summary>订阅地址泄露了怎么办？</summary>\n        <div class=\"answer\">请立即在用户中心执行「重置订阅链接」。原地址会立刻失效，其他设备需要重新导入新地址才能连接。建议不要将订阅链接保存在云笔记、公开仓库等容易被他人访问的位置。</div>\n      </details>\n    </div>\n  </section>\n</main>\n\n<footer>\n  <p>免费机场 · 本页内容仅供参考，不构成任何形式的服务承诺。</p>\n</footer>",
+          "hash": "7fb2dfd67b555358523701d49a771ae852da41eab64f96155ca1a08bdb05915e",
+          "seo": {
+            "title": "免费机场 — 专注隐私的订阅机场服务",
+            "keywords": "免费机场,隐私保护,加密订阅,高速节点,专线加速",
+            "description": "免费机场为关注隐私的用户提供加密网络中转服务。通过订阅地址接入全球节点，日常浏览、流媒体观看、远程办公均获得稳定线路支持。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "3148",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "9 深棕配薄荷",
+            "nav": "5 页面顶部面包屑加目录",
+            "card": "5 编号大字压底",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "5 问答引导式",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "syznd.cn",
+    "host": "p-d0ce434cde.syznd.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "be5bc052b4cc855fc21b5cd625b18745bc4254bf67a82b7b3427dd52e3b66f38",
+    "sitemap.xml": "19f0e530650203295a0410bad8e8f66f5695c6da589944c619c7d07c8bc84b2c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bbf467bd2108773d77b48355829c7d8d8d3187246cacea5bc54a7e0571b12961",
+    "robots.txt": "45705117e693b8dc2c43e45a244ba7af6de00a7398c329c48f1808803635d47d",
+    "78a1be1a06b4d4b3870b1faf0850dad2.txt": "71a96067505300ef8b9322d163bf4ce402e9edf1cba077a7b525eeedd1704fa9"
+  },
+  "revision": "36eef48c80f8de1e1f23eb12c3c734bc544f4034c0e6311d7a15988ea9179d5c"
+}
